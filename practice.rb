@@ -1,1 +1,1 @@
-my_mood == 
+my_mood == "happy"
